@@ -1,11 +1,11 @@
-# LEARNING LANGUAGES LIKE CHILDREN
-
 What follows was originally written by J. Marvin Brown in July 1992, revised 2001.
 The copyright is held by J. Marvin Brown.
 This webpage is converted from [the original MS Word 97 doc format](learning.doc),
 which can be downloaded from [ALG World](https://algworld.com/learning-languages-like-children/).
 This is some adjustments in formatting,
 but the content below (including some possible typos) is preserved verbatim during the conversion.
+
+# LEARNING LANGUAGES LIKE CHILDREN
 
 In 1984, the American University Alumni Language Center in Bangkok
 started using a new version of the natural approach to teach the Thai
